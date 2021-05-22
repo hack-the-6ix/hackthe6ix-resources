@@ -1,2 +1,2 @@
-# hack-the-6ix-resources
+# Hack the 6ix Resources
 Public static resources
